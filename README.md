@@ -20,17 +20,17 @@ Fortunately, the API server is already done. You will need to grab on the requir
 Well, grap your guns, stock up your food and bring down your armor. We gonna need it for tonight!  
 **Here are the tasks you must complete:**
 
-- [ ] Complete the application according to the design (image above).
-- [ ] Complete these features that are not in the design (you have freedom to design and position to display).
+- [X] Complete the application according to the design (image above).
+- [X] Complete these features that are not in the design (you have freedom to design and position to display).
   - Display all donation amount.
   - Display a message when paid.
-- [ ] Make the donation feature works correctly.
+- [X] Make the donation feature works correctly.
   - Amount in all donations should be displayed correctly despite users close and come back later.
   - Database (db.json) should have the new valid data when paid.
-- [ ] Refactor the code to be more readable and enhance reusability.
-- [ ] Use only [styled-component](https://www.styled-components.com/) for styling part.
-- [ ] Write a nice commit message and order it well.
-- [ ] Display well in most modern browser (Google Chrome, Safari, Firefox).
+- [X] Refactor the code to be more readable and enhance reusability.
+- [X] Use only [styled-component](https://www.styled-components.com/) for styling part.
+- [X] Write a nice commit message and order it well.
+- [X] Display well in most modern browser (Google Chrome, Safari, Firefox).
 
 #### Bonus
 - [ ] Supporting different screen sizes (responsive).
