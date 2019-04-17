@@ -5,6 +5,27 @@
 </p>
 <br />
 
+**User Guide**
+
+####Familiar with Git?#####
+Checkout this repo, install depdencies, then start the gulp process with the following:
+
+```
+	> git clone https://github.com/xuanvien1994/challenges.git
+	> npm install
+	> npm run server
+  > npm run client
+  > then visit http://localhost:3002/ 
+```
+####Not Familiar with Git?#####
+Click [here](https://github.com/xuanvien1994/challenges.git) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+
+```
+	> npm install
+	> npm run server
+  > npm run client
+  > then visit http://localhost:3002/ 
+```
 
 **Tamboon React** is a code challenge for frontend developer.
 
